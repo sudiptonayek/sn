@@ -1,0 +1,2 @@
+ 1 discord.py
+ 2 asyncio
